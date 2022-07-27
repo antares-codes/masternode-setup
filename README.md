@@ -1,5 +1,17 @@
 # MetaACO Masternode Installation Script
 
+Be aware, you are setting up a Masternode on a remote server, and keeping your MetaACO Coins on a local computer. Your MetaACO Coins are never in danger from the remote server
+
+NOTE: Always do a backup of your WALLET.DAT if you have MetaACO Coins on your computer.
+
+```
+Windows: C:/users/username/appdata/roaming/MetaACO/wallet.dat
+
+Linux: ~/.metaaco/wallet.dat
+
+Mac: ~/Library/Application Support/MetaACO/wallet.dat
+```
+
 # Part 1 - Sending Collateral Coins
 
 1. Open your Windows wallet and unlock if your wallet is encrypted - MAKE SURE IT IS FULLY SYNCED WITH THE NETWORK AND STAKING IS DISABLED
